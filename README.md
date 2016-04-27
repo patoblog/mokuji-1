@@ -2,6 +2,8 @@
 
 自動で目次を生成する JavaScript
 
+## Usage
+
 ```html
 <body onload="mokuji(2,4)">
   <h1>目次</h1>
@@ -13,3 +15,6 @@
 ```
 
 ![出力画像](img/sample.png)
+
+## サンプル
+- [mokuji のサンプル](https://tanjo.github.io/mokuji/)
