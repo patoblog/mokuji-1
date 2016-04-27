@@ -1,0 +1,25 @@
+#mokuji a {
+  color: #6aabcc;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 22px;
+  text-decoration: none;
+}
+
+#mokuji ul {
+  list-style:none;
+  margin: 0;
+  padding: 0;
+}
+
+#mokuji ul li.mokuji2 {
+  margin-left: 0px;
+}
+
+#mokuji ul li.mokuji3 {
+  margin-left: 10px;
+}
+
+#mokuji ul li.mokuji4 {
+  margin-left: 20px;
+}
